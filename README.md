@@ -3,8 +3,9 @@
 </p>
 
 ## About me:
-- Consultant @ Pentest People
-- Interested in Software Security and Red Teaming
+- Ethical Hacker (~1yr commercial experience)
+- Interested in Red Teaming, Vulnerability Research and Exploit Development
+- Attempting Bug Bountying
 
 ## Languages:
 - Golang
