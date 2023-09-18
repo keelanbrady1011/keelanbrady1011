@@ -2,7 +2,7 @@
   <img width="600" src="https://raw.githubusercontent.com/keelanbrady1011/keelanbrady1011/main/big-lucky-star-yawn.gif">
 </p>
 
-<h1> <a src="https://github.com/keelanbrady1011/keelanbrady1011/blob/main/cv-1.pdf"> HIREME PLS </a> </h1>
+# [HIRE ME](https://github.com/keelanbrady1011/keelanbrady1011/blob/main/cv-1.pdf)
 
 ## About me:
 - Ethical Hacker (~1yr commercial experience)
