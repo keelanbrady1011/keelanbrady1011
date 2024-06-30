@@ -14,7 +14,17 @@ header:
     newLine: true
   - text: <span class="iconify" data-icon="ic:outline-location-on"></span> Glasgow
 ---
-
+<!---
+Rendered Using: https://ohmycv.app/
+Paper Size:A4
+Font Family: JetBrains Mono
+Font Size: 16px
+Margin: 
+    Top/Bottom: 56px
+    Left/Right: 48px
+Paragraph Spacing: 5px
+Line Spacing: 1.25px
+-->
 ## <span class="iconify" data-icon="ep:avatar"></span> Experience
 
 **Penetration Tester**
