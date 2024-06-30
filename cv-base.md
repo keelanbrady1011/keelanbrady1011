@@ -16,7 +16,7 @@ header:
 ---
 <!---
 Rendered Using: https://ohmycv.app/
-css: cv.css
+css: cv-style.css
 Paper Size:A4
 Font Family: JetBrains Mono
 Font Size: 16px
