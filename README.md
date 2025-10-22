@@ -5,9 +5,8 @@
 # [HIRE ME](https://github.com/keelanbrady1011/keelanbrady1011/blob/main/CV-latest.pdf)
 
 ## About me:
-- Ethical Hacker (~2yr commercial experience)
+- Ethical Hacker (>2yrs commercial experience)
 - Interested in Red Teaming, Vulnerability Research and Exploit Development
-- Attempting Bug Bountying
 
 ## Languages:
 - Golang
